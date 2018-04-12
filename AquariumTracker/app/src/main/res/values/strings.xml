@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">"Aquarium Tracker "</string>
+    <string name="title_activity_add_tank">AddTankActivity</string>
+</resources>

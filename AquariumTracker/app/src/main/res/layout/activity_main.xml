@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/logBtn"
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:background="@android:color/holo_blue_light"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Log"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/livestockBtn"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        android:background="@android:color/holo_green_light"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Livestock and Coral"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/graphsBtn"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        android:background="@android:color/holo_orange_dark"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Graphs"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/settingsBtn"
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        android:background="@android:color/darker_gray"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Settings"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+</LinearLayout>

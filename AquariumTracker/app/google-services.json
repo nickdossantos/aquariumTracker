@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958048234783",
+    "firebase_url": "https://aquariumtracker-f5b07.firebaseio.com",
+    "project_id": "aquariumtracker-f5b07",
+    "storage_bucket": "aquariumtracker-f5b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958048234783:android:dfd02e8f2a74708b",
+        "android_client_info": {
+          "package_name": "com.dossantos.aquariumtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958048234783-uae49gmo4tc34ul68l636db2sq2ji5cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dossantos.aquariumtracker",
+            "certificate_hash": "37e04f08bc8338c302387e08e75a7cc7a47bbb56"
+          }
+        },
+        {
+          "client_id": "958048234783-av1d9tqrukfapoio080qhem45udhik7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPcJP8OO1NZuMbdwrQpChiRkst-_yQek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958048234783-av1d9tqrukfapoio080qhem45udhik7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
